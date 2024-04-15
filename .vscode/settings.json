@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "fitz"
-    ]
+    ],
+    "files.autoSave": "afterDelay"
 }
